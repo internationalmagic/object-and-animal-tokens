@@ -1680,11 +1680,11 @@
       "surface": {
         "display": {
           "default": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.book}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.semibold}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           }
         },
@@ -1720,7 +1720,7 @@
         },
         "body": {
           "default": {
-            "value": "{app.config.fontWeight.regular}",
+            "value": "{app.config.fontWeight.book}",
             "type": "fontWeights"
           },
           "strong": {
@@ -1730,7 +1730,7 @@
         },
         "caption": {
           "default": {
-            "value": "{app.config.fontWeight.regular}",
+            "value": "{app.config.fontWeight.book}",
             "type": "fontWeights"
           },
           "strong": {
@@ -2385,7 +2385,7 @@
           "type": "other"
         },
         "regular": {
-          "value": "Regular",
+          "value": "200",
           "type": "other"
         },
         "book": {
@@ -2393,7 +2393,7 @@
           "type": "other"
         },
         "medium": {
-          "value": "Medium",
+          "value": "229",
           "type": "other"
         },
         "semibold": {
