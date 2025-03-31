@@ -2133,43 +2133,43 @@
     "textCase": {
       "control": {
         "default": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         }
       },
       "label": {
         "default": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         }
       },
       "surface": {
         "display": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "title": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "subtitle": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "callout": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "body": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "caption": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "footnote": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "code": {
