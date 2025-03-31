@@ -1680,71 +1680,71 @@
       "surface": {
         "display": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "title": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "callout": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "subtitle": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "body": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "caption": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "footnote": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
