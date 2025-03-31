@@ -1612,15 +1612,15 @@
       "control": {
         "text": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "alt": {
-            "value": "{app.config.fontWeight.regular}",
+            "value": "{app.config.fontWeight.book}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
@@ -1630,17 +1630,17 @@
             "type": "fontWeights"
           },
           "alt": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "number": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "alt": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         }
@@ -1648,21 +1648,21 @@
       "label": {
         "text": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "number": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "alt": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
@@ -1672,7 +1672,7 @@
             "type": "fontWeights"
           },
           "alt": {
-            "value": "{app.config.fontWeight.bold}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         }
