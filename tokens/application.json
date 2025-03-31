@@ -1860,7 +1860,7 @@
             "type": "fontSizes"
           },
           "md": {
-            "value": "1rem",
+            "value": "0.9375rem",
             "type": "fontSizes"
           },
           "lg": {
@@ -1944,7 +1944,7 @@
       "surface": {
         "display": {
           "sm": {
-            "value": "{app.fontSize.surface.body.md} * 1.75",
+            "value": "{app.fontSize.surface.body.md} * 2",
             "type": "fontSizes"
           },
           "md": {
@@ -1958,7 +1958,7 @@
         },
         "title": {
           "sm": {
-            "value": "{app.fontSize.surface.body.md} * 1.125",
+            "value": "{app.fontSize.surface.body.md} * 1.25",
             "type": "fontSizes"
           },
           "md": {
@@ -1986,7 +1986,7 @@
         },
         "subtitle": {
           "sm": {
-            "value": "{app.fontSize.surface.body.md} * 1.125",
+            "value": "{app.fontSize.surface.body.md} * 1.25",
             "type": "fontSizes"
           },
           "md": {
@@ -2004,7 +2004,7 @@
             "type": "fontSizes"
           },
           "md": {
-            "value": "1rem",
+            "value": "0.9375rem",
             "type": "fontSizes"
           }
         },
