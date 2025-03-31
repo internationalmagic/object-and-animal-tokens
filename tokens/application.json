@@ -1547,7 +1547,7 @@
     "fontFamily": {
       "control": {
         "text": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "symbol": {
@@ -1561,7 +1561,7 @@
       },
       "label": {
         "text": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "symbol": {
@@ -1575,31 +1575,31 @@
       },
       "surface": {
         "display": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "title": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "callout": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "subtitle": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "body": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "caption": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "footnote": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "code": {
@@ -2381,35 +2381,35 @@
     "config": {
       "fontWeight": {
         "light": {
-          "value": "Light",
+          "value": "300",
           "type": "other"
         },
         "regular": {
-          "value": "200",
+          "value": "400",
           "type": "other"
         },
         "book": {
-          "value": "200",
+          "value": "450",
           "type": "other"
         },
         "medium": {
-          "value": "229",
+          "value": "500",
           "type": "other"
         },
         "semibold": {
-          "value": "Semibold",
+          "value": "600",
           "type": "other"
         },
         "bold": {
-          "value": "Bold",
+          "value": "700",
           "type": "other"
         },
         "extrabold": {
-          "value": "Extrabold",
+          "value": "800",
           "type": "other"
         },
         "black": {
-          "value": "Black",
+          "value": "900",
           "type": "other"
         }
       },
