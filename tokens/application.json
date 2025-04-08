@@ -1547,7 +1547,7 @@
     "fontFamily": {
       "control": {
         "text": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "symbol": {
@@ -1561,7 +1561,7 @@
       },
       "label": {
         "text": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "symbol": {
@@ -1575,31 +1575,31 @@
       },
       "surface": {
         "display": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "title": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "callout": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "subtitle": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "body": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "caption": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "footnote": {
-          "value": "Mueller",
+          "value": "Circle",
           "type": "fontFamilies"
         },
         "code": {
@@ -1612,15 +1612,15 @@
       "control": {
         "text": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "alt": {
-            "value": "{app.config.fontWeight.regular}",
+            "value": "{app.config.fontWeight.book}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
@@ -1630,17 +1630,17 @@
             "type": "fontWeights"
           },
           "alt": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "number": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "alt": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         }
@@ -1648,21 +1648,21 @@
       "label": {
         "text": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "number": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "alt": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
@@ -1672,7 +1672,7 @@
             "type": "fontWeights"
           },
           "alt": {
-            "value": "{app.config.fontWeight.bold}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         }
@@ -1680,71 +1680,71 @@
       "surface": {
         "display": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "title": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "callout": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "subtitle": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "body": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "caption": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
         "footnote": {
           "default": {
-            "value": "{app.config.fontWeight.book}",
+            "value": "{app.config.fontWeight.medium}",
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.semibold}",
             "type": "fontWeights"
           }
         },
@@ -1860,7 +1860,7 @@
             "type": "fontSizes"
           },
           "md": {
-            "value": "1rem",
+            "value": "0.9375rem",
             "type": "fontSizes"
           },
           "lg": {
@@ -1944,7 +1944,7 @@
       "surface": {
         "display": {
           "sm": {
-            "value": "{app.fontSize.surface.body.md} * 1.75",
+            "value": "{app.fontSize.surface.body.md} * 2",
             "type": "fontSizes"
           },
           "md": {
@@ -1958,7 +1958,7 @@
         },
         "title": {
           "sm": {
-            "value": "{app.fontSize.surface.body.md} * 1.125",
+            "value": "{app.fontSize.surface.body.md} * 1.25",
             "type": "fontSizes"
           },
           "md": {
@@ -1986,7 +1986,7 @@
         },
         "subtitle": {
           "sm": {
-            "value": "{app.fontSize.surface.body.md} * 1.125",
+            "value": "{app.fontSize.surface.body.md} * 1.25",
             "type": "fontSizes"
           },
           "md": {
@@ -2004,7 +2004,7 @@
             "type": "fontSizes"
           },
           "md": {
-            "value": "1rem",
+            "value": "0.9375rem",
             "type": "fontSizes"
           }
         },
@@ -2133,43 +2133,43 @@
     "textCase": {
       "control": {
         "default": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         }
       },
       "label": {
         "default": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         }
       },
       "surface": {
         "display": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "title": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "subtitle": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "callout": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "body": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "caption": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "footnote": {
-          "value": "none",
+          "value": "lowercase",
           "type": "textCase"
         },
         "code": {
@@ -2381,35 +2381,35 @@
     "config": {
       "fontWeight": {
         "light": {
-          "value": "Light",
+          "value": "300",
           "type": "other"
         },
         "regular": {
-          "value": "200",
+          "value": "400",
           "type": "other"
         },
         "book": {
-          "value": "200",
+          "value": "450",
           "type": "other"
         },
         "medium": {
-          "value": "229",
+          "value": "500",
           "type": "other"
         },
         "semibold": {
-          "value": "Semibold",
+          "value": "600",
           "type": "other"
         },
         "bold": {
-          "value": "Bold",
+          "value": "700",
           "type": "other"
         },
         "extrabold": {
-          "value": "Extrabold",
+          "value": "800",
           "type": "other"
         },
         "black": {
-          "value": "Black",
+          "value": "900",
           "type": "other"
         }
       },
