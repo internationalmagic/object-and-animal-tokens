@@ -318,19 +318,19 @@
         },
         "radius": {
           "xs": {
-            "value": "{app.dimension.control.radius.xxs}",
-            "type": "dimension"
-          },
-          "sm": {
             "value": "{app.dimension.control.radius.xs}",
             "type": "dimension"
           },
-          "md": {
+          "sm": {
             "value": "{app.dimension.control.radius.sm}",
             "type": "dimension"
           },
-          "lg": {
+          "md": {
             "value": "{app.dimension.control.radius.md}",
+            "type": "dimension"
+          },
+          "lg": {
+            "value": "{app.dimension.control.radius.lg}",
             "type": "dimension"
           }
         },

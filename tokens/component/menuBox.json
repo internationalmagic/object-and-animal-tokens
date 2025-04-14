@@ -26,19 +26,19 @@
         },
         "radius": {
           "xs": {
-            "value": "{app.dimension.control.radius.xxs} + {component.menuBox.dimension.padding.x}",
-            "type": "dimension"
-          },
-          "sm": {
             "value": "{app.dimension.control.radius.xs} + {component.menuBox.dimension.padding.x}",
             "type": "dimension"
           },
-          "md": {
+          "sm": {
             "value": "{app.dimension.control.radius.sm} + {component.menuBox.dimension.padding.x}",
             "type": "dimension"
           },
-          "lg": {
+          "md": {
             "value": "{app.dimension.control.radius.md} + {component.menuBox.dimension.padding.x}",
+            "type": "dimension"
+          },
+          "lg": {
+            "value": "{app.dimension.control.radius.lg} + {component.menuBox.dimension.padding.x}",
             "type": "dimension"
           }
         },

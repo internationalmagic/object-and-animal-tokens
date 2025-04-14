@@ -2260,27 +2260,27 @@
         },
         "radius": {
           "xxs": {
-            "value": "{app.dimension.control.radius.xs} - 0.125rem",
+            "value": "0.125rem",
             "type": "dimension"
           },
           "xs": {
-            "value": "{app.dimension.control.radius.sm} - 0.125rem",
+            "value": "0.25rem",
             "type": "dimension"
           },
           "sm": {
-            "value": "{app.dimension.control.radius.md} - 0.125rem",
+            "value": "0.5rem",
             "type": "dimension"
           },
           "md": {
-            "value": "1rem",
+            "value": "0.75rem",
             "type": "dimension"
           },
           "lg": {
-            "value": "{app.dimension.control.radius.md} + 0.125rem",
+            "value": "1rem",
             "type": "dimension"
           },
           "xl": {
-            "value": "{app.dimension.control.radius.lg} + 0.125rem",
+            "value": "1.25rem",
             "type": "dimension"
           }
         },
