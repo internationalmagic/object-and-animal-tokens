@@ -2333,7 +2333,7 @@
         "padding": {
           "container": {
             "default": {
-              "value": "{app.dimension.control.padding.xs}",
+              "value": "0.5rem",
               "type": "dimension"
             }
           }
@@ -2341,7 +2341,7 @@
         "radius": {
           "sm": {
             "default": {
-              "value": "{app.dimension.surface.radius.md.default} - 0.25rem",
+              "value": "0.5rem",
               "type": "dimension"
             },
             "inset": {
@@ -2351,7 +2351,7 @@
           },
           "md": {
             "default": {
-              "value": "{app.dimension.control.radius.md} * 2",
+              "value": "0.75rem",
               "type": "dimension"
             },
             "inset": {
@@ -2361,7 +2361,7 @@
           },
           "lg": {
             "default": {
-              "value": "{app.dimension.surface.radius.md.default} + 0.25rem",
+              "value": "1rem",
               "type": "dimension"
             },
             "inset": {
