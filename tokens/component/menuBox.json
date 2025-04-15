@@ -70,7 +70,7 @@
       },
       "boxShadow": {
         "default": {
-          "value": "{app.boxShadow.component.high.default}",
+          "value": "none",
           "type": "boxShadow"
         }
       }
