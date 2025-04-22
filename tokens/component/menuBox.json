@@ -20,7 +20,7 @@
         },
         "blur": {
           "default": {
-            "value": "4rem",
+            "value": "2rem",
             "type": "dimension"
           }
         },
@@ -57,7 +57,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.8",
+                "value": "0.64",
                 "space": "hsl"
               }
             }
