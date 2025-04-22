@@ -300,7 +300,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "0.28",
+                  "value": "{app.config.color.translucent.subtle}",
                   "space": "hsl"
                 }
               }
@@ -1386,19 +1386,19 @@
         },
         "translucent": {
           "bg": {
-            "value": "0.16",
+            "value": "0.08",
             "type": "other"
           },
           "border": {
-            "value": "0.2",
+            "value": "0.12",
             "type": "other"
           },
           "subtle": {
-            "value": "0.32",
+            "value": "0.16",
             "type": "other"
           },
           "muted": {
-            "value": "0.64",
+            "value": "0.4",
             "type": "other"
           },
           "focusRing": {
@@ -1412,7 +1412,7 @@
             "type": "other"
           },
           "onTranslucent": {
-            "value": "0.5",
+            "value": "0.52",
             "type": "other"
           },
           "tone": {
@@ -1434,7 +1434,7 @@
             "type": "other"
           },
           "dimmer": {
-            "value": "0.1",
+            "value": "0.12",
             "type": "other"
           },
           "dimmerSurface": {
