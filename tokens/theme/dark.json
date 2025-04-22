@@ -20,7 +20,7 @@
             "type": "color"
           },
           "high": {
-            "value": "hsl({app.config.color.hue.neutral}, 4%, 96%)",
+            "value": "hsl({app.config.color.hue.neutral}, 0%, 96%)",
             "type": "color"
           }
         },
@@ -1386,7 +1386,7 @@
         },
         "translucent": {
           "bg": {
-            "value": "0.08",
+            "value": "0.12",
             "type": "other"
           },
           "border": {

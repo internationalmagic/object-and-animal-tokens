@@ -12,15 +12,15 @@
         },
         "grey": {
           "default": {
-            "value": "hsl({app.config.color.hue.neutral}, 4%, 44%)",
+            "value": "hsl({app.config.color.hue.neutral}, 0%, 44%)",
             "type": "color"
           },
           "low": {
-            "value": "hsl({app.config.color.hue.neutral}, 4%, 96%)",
+            "value": "hsl({app.config.color.hue.neutral}, 0%, 96%)",
             "type": "color"
           },
           "high": {
-            "value": "hsl({app.config.color.hue.neutral}, 4%, 8%)",
+            "value": "hsl({app.config.color.hue.neutral}, 0%, 8%)",
             "type": "color"
           }
         },
@@ -2438,7 +2438,7 @@
         },
         "translucent": {
           "bg": {
-            "value": "0.24",
+            "value": "0.12",
             "type": "other"
           },
           "border": {
@@ -2450,7 +2450,7 @@
             "type": "other"
           },
           "muted": {
-            "value": "0.64",
+            "value": "0.52",
             "type": "other"
           },
           "focusRing": {
@@ -2464,11 +2464,11 @@
             "type": "other"
           },
           "onTranslucent": {
-            "value": "0.1",
+            "value": "0.12",
             "type": "other"
           },
           "tone": {
-            "value": "0.1",
+            "value": "0.12",
             "type": "other"
           },
           "interact": {
@@ -2486,7 +2486,7 @@
             "type": "other"
           },
           "dimmer": {
-            "value": "0.1",
+            "value": "0.08",
             "type": "other"
           },
           "dimmerSurface": {
