@@ -208,7 +208,7 @@
             "type": "fontSizes"
           },
           "md": {
-            "value": "{app.fontSize.control.text.md}",
+            "value": "{app.fontSize.control.text.lg}",
             "type": "fontSizes"
           },
           "lg": {
@@ -244,7 +244,7 @@
             "type": "fontSizes"
           },
           "md": {
-            "value": "{app.fontSize.control.text.sm}",
+            "value": "{app.fontSize.control.text.md}",
             "type": "fontSizes"
           },
           "lg": {
