@@ -226,7 +226,7 @@
             "type": "fontSizes"
           },
           "md": {
-            "value": "{app.fontSize.control.symbol.md}",
+            "value": "{app.fontSize.control.symbol.lg}",
             "type": "fontSizes"
           },
           "lg": {
