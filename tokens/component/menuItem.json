@@ -10,20 +10,20 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{app.color.component.primary.bg.translucent}",
+                "value": "{component.button.color.primary.translucent.bg.hover}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
                     "modify": {
                       "type": "alpha",
-                      "value": "0.08",
+                      "value": "0.16",
                       "space": "hsl"
                     }
                   }
                 }
               },
               "active": {
-                "value": "{app.color.component.primary.bg.translucent}",
+                "value": "{component.button.color.primary.translucent.bg.active}",
                 "type": "color"
               }
             },

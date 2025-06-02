@@ -1386,7 +1386,7 @@
         },
         "translucent": {
           "bg": {
-            "value": "0.12",
+            "value": "0.16",
             "type": "other"
           },
           "border": {
