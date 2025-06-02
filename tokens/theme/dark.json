@@ -16,7 +16,7 @@
             "type": "color"
           },
           "low": {
-            "value": "hsl({app.config.color.hue.neutral}, 0%, 6%)",
+            "value": "hsl({app.config.color.hue.neutral}, 0%, 4%)",
             "type": "color"
           },
           "high": {
@@ -86,7 +86,7 @@
             "type": "color"
           },
           "low": {
-            "value": "hsl({app.config.color.hue.neutral}, 0%, 6%)",
+            "value": "hsl({app.config.color.hue.neutral}, 0%, 4%)",
             "type": "color"
           },
           "high": {
@@ -242,7 +242,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "0.08",
+                  "value": "{app.config.color.actions.translucent}",
                   "space": "hsl"
                 }
               }
@@ -255,7 +255,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{app.config.color.actions.translucent} * 2",
+                  "value": "{app.config.color.actions.translucent} * 1.5",
                   "space": "hsl"
                 }
               }
@@ -268,7 +268,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{app.config.color.actions.translucent} * 3",
+                  "value": "{app.config.color.actions.translucent} * 2",
                   "space": "hsl"
                 }
               }
@@ -1390,7 +1390,7 @@
             "type": "other"
           },
           "border": {
-            "value": "0.12",
+            "value": "0.2",
             "type": "other"
           },
           "subtle": {
@@ -1430,7 +1430,7 @@
         },
         "actions": {
           "translucent": {
-            "value": "0.08",
+            "value": "0.12",
             "type": "other"
           },
           "dimmer": {
