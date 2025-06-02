@@ -76,7 +76,7 @@
             "type": "color"
           },
           "high": {
-            "value": "hsl({app.config.color.hue.danger}, 100%, 20%)",
+            "value": "hsl({app.config.color.hue.danger}, 100%, 62%)",
             "type": "color"
           }
         },
