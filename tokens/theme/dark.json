@@ -9,7 +9,7 @@
           },
           "base": {
             "$type": "color",
-            "$value": "{config.color.palette.neutral.solid.12}"
+            "$value": "{config.color.palette.black.solid}"
           },
           "high": {
             "$type": "color",
