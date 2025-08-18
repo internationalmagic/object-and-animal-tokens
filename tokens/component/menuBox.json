@@ -20,7 +20,7 @@
         },
         "blur": {
           "default": {
-            "$value": "8rem",
+            "$value": "0.5rem",
             "$type": "dimension"
           }
         },
