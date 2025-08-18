@@ -269,19 +269,19 @@
           },
           "label": {
             "xs": {
-              "$value": "0rem",
+              "$value": "0px",
               "$type": "dimension"
             },
             "sm": {
-              "$value": "0rem",
+              "$value": "0px",
               "$type": "dimension"
             },
             "md": {
-              "$value": "0rem",
+              "$value": "0px",
               "$type": "dimension"
             },
             "lg": {
-              "$value": "0rem",
+              "$value": "0px",
               "$type": "dimension"
             }
           }
