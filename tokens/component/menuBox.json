@@ -4,11 +4,11 @@
       "dimension": {
         "padding": {
           "x": {
-            "$value": "{app.dimension.component.spacing.1}",
+            "$value": "{app.dimension.component.spacing.2}",
             "$type": "dimension"
           },
           "y": {
-            "$value": "{app.dimension.component.spacing.1}",
+            "$value": "{app.dimension.component.spacing.2}",
             "$type": "dimension"
           }
         },
@@ -26,19 +26,19 @@
         },
         "radius": {
           "xs": {
-            "$value": "{app.dimension.component.radius.default.sm} + {component.menuBox.dimension.padding.x}",
+            "$value": "{app.dimension.component.radius.default.2xs} + {component.menuBox.dimension.padding.x}",
             "$type": "dimension"
           },
           "sm": {
-            "$value": "{app.dimension.component.radius.default.md} + {component.menuBox.dimension.padding.x}",
+            "$value": "{app.dimension.component.radius.default.2xs} + {component.menuBox.dimension.padding.x}",
             "$type": "dimension"
           },
           "md": {
-            "$value": "{app.dimension.component.radius.default.lg} + {component.menuBox.dimension.padding.x}",
+            "$value": "{app.dimension.component.radius.default.2xs} + {component.menuBox.dimension.padding.x}",
             "$type": "dimension"
           },
           "lg": {
-            "$value": "{app.dimension.component.radius.default.xl} + {component.menuBox.dimension.padding.x}",
+            "$value": "{app.dimension.component.radius.default.2xs} + {component.menuBox.dimension.padding.x}",
             "$type": "dimension"
           }
         },
