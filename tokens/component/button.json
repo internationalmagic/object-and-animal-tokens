@@ -981,37 +981,37 @@
         "radius": {
           "default": {
             "xs": {
-              "$value": "{app.dimension.component.radius.compact.2xs}",
-              "$type": "dimension"
-            },
-            "sm": {
               "$value": "{app.dimension.component.radius.compact.sm}",
               "$type": "dimension"
             },
-            "md": {
+            "sm": {
               "$value": "{app.dimension.component.radius.compact.lg}",
               "$type": "dimension"
             },
-            "lg": {
+            "md": {
               "$value": "{app.dimension.component.radius.compact.2xl}",
+              "$type": "dimension"
+            },
+            "lg": {
+              "$value": "{app.dimension.component.radius.compact.4xl}",
               "$type": "dimension"
             }
           },
           "inline": {
             "xs": {
-              "$value": "{app.dimension.component.radius.compact.4xs}",
+              "$value": "{app.dimension.component.radius.compact.xs}",
               "$type": "dimension"
             },
             "sm": {
-              "$value": "{app.dimension.component.radius.compact.2xs}",
+              "$value": "{app.dimension.component.radius.compact.md}",
               "$type": "dimension"
             },
             "md": {
-              "$value": "{app.dimension.component.radius.compact.sm}",
+              "$value": "{app.dimension.component.radius.compact.xl}",
               "$type": "dimension"
             },
             "lg": {
-              "$value": "{app.dimension.component.radius.compact.lg}",
+              "$value": "{app.dimension.component.radius.compact.3xl}",
               "$type": "dimension"
             }
           }

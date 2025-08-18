@@ -2023,6 +2023,14 @@
             "2xl": {
               "$value": "{config.dimension.radius.base} * 2.5",
               "$type": "dimension"
+            },
+            "3xl": {
+              "$value": "{config.dimension.radius.base} * 2.75",
+              "$type": "dimension"
+            },
+            "4xl": {
+              "$value": "{config.dimension.radius.base} * 3",
+              "$type": "dimension"
             }
           },
           "default": {
