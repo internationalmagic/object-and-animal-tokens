@@ -901,19 +901,19 @@
           },
           "inline": {
             "xs": {
-              "$value": "{app.dimension.component.spacing.5}",
+              "$value": "{app.dimension.component.spacing.6}",
               "$type": "dimension"
             },
             "sm": {
-              "$value": "{app.dimension.component.spacing.7}",
+              "$value": "{app.dimension.component.spacing.8}",
               "$type": "dimension"
             },
             "md": {
-              "$value": "{app.dimension.component.spacing.9}",
+              "$value": "{app.dimension.component.spacing.10}",
               "$type": "dimension"
             },
             "lg": {
-              "$value": "{app.dimension.component.spacing.11}",
+              "$value": "{app.dimension.component.spacing.12}",
               "$type": "dimension"
             }
           }
