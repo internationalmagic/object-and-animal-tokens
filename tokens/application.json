@@ -148,7 +148,7 @@
             "inverted": {
               "default": {
                 "$type": "color",
-                "$value": "{config.color.palette.neutral.solid.2}"
+                "$value": "{config.color.palette.neutral.translucent.12}"
               }
             },
             "light": {
