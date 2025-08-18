@@ -269,19 +269,19 @@
           },
           "label": {
             "xs": {
-              "$value": "{app.dimension.component.spacing.0_5}",
+              "$value": "0",
               "$type": "dimension"
             },
             "sm": {
-              "$value": "{app.dimension.component.spacing.1}",
+              "$value": "0",
               "$type": "dimension"
             },
             "md": {
-              "$value": "{app.dimension.component.spacing.1_5}",
+              "$value": "0",
               "$type": "dimension"
             },
             "lg": {
-              "$value": "{app.dimension.component.spacing.2}",
+              "$value": "0",
               "$type": "dimension"
             }
           }
