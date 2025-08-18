@@ -1988,6 +1988,22 @@
             "$type": "dimension"
           },
           "compact": {
+            "4xs": {
+              "$value": "{config.dimension.radius.base} * 0.5",
+              "$type": "dimension"
+            },
+            "3xs": {
+              "$value": "{config.dimension.radius.base} * 0.75",
+              "$type": "dimension"
+            },
+            "2xs": {
+              "$value": "{config.dimension.radius.base} * 1",
+              "$type": "dimension"
+            },
+            "xs": {
+              "$value": "{config.dimension.radius.base} * 1.25",
+              "$type": "dimension"
+            },
             "sm": {
               "$value": "{config.dimension.radius.base} * 1.5",
               "$type": "dimension"
@@ -2002,6 +2018,10 @@
             },
             "xl": {
               "$value": "{config.dimension.radius.base} * 2.25",
+              "$type": "dimension"
+            },
+            "2xl": {
+              "$value": "{config.dimension.radius.base} * 2.5",
               "$type": "dimension"
             }
           },
