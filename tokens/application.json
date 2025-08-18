@@ -2067,7 +2067,7 @@
         "radius": {
           "sm": {
             "default": {
-              "$value": "{config.dimension.spacing.base} * 3",
+              "$value": "{config.dimension.spacing.base} * 4",
               "$type": "dimension"
             },
             "inset": {
@@ -2077,7 +2077,7 @@
           },
           "md": {
             "default": {
-              "$value": "{config.dimension.spacing.base} * 4",
+              "$value": "{config.dimension.spacing.base} * 5",
               "$type": "dimension"
             },
             "inset": {
@@ -2087,7 +2087,7 @@
           },
           "lg": {
             "default": {
-              "$value": "{config.dimension.spacing.base} * 5",
+              "$value": "{config.dimension.spacing.base} * 6",
               "$type": "dimension"
             },
             "inset": {
