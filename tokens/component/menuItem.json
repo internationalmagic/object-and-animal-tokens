@@ -188,19 +188,19 @@
       "fontSize": {
         "label": {
           "xs": {
-            "$value": "{app.fontSize.component.text.sm}",
-            "$type": "fontSizes"
-          },
-          "sm": {
             "$value": "{app.fontSize.component.text.md}",
             "$type": "fontSizes"
           },
-          "md": {
+          "sm": {
             "$value": "{app.fontSize.component.text.lg}",
             "$type": "fontSizes"
           },
-          "lg": {
+          "md": {
             "$value": "{app.fontSize.component.text.xl}",
+            "$type": "fontSizes"
+          },
+          "lg": {
+            "$value": "{app.fontSize.component.text.2xl}",
             "$type": "fontSizes"
           }
         },
