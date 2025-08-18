@@ -1640,12 +1640,12 @@
         },
         "body": {
           "sm": {
-            "value": "0.875rem",
-            "type": "fontSizes"
+            "$value": "0.875rem",
+            "$type": "fontSizes"
           },
           "md": {
-            "value": "0.9375rem",
-            "type": "fontSizes"
+            "$value": "0.9375rem",
+            "$type": "fontSizes"
           }
         },
         "caption": {
