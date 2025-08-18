@@ -109,7 +109,7 @@
             "inverted": {
               "default": {
                 "$type": "color",
-                "$value": "hsl(none 0% 0% / 0.8)"
+                "$value": "oklch(0 0 0 / 80%)"
               }
             }
           },
