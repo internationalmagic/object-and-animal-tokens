@@ -45,7 +45,7 @@
             "$type": "color"
           },
           "muted": {
-            "$value": "{config.color.palette.black.translucent.9}",
+            "$value": "{config.color.palette.black.translucent.6}",
             "$type": "color"
           },
           "subtle": {
