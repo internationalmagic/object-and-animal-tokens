@@ -55,13 +55,13 @@
           "$type": "color"
         },
         "border": {
-          "$value": "transparent",
+          "$value": "{app.color.component.primary.border.translucent.default}",
           "$type": "color"
         }
       },
       "boxShadow": {
         "default": {
-          "$value": "{app.boxShadow.component.high}",
+          "$value": "none",
           "$type": "boxShadow"
         }
       }

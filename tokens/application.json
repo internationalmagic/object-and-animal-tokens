@@ -1258,7 +1258,7 @@
       "component": {
         "text": {
           "default": {
-            "$value": "{config.fontWeight.book}",
+            "$value": "{config.fontWeight.medium}",
             "$type": "fontWeights"
           },
           "alt": {
@@ -1266,7 +1266,7 @@
             "$type": "fontWeights"
           },
           "strong": {
-            "$value": "{config.fontWeight.medium}",
+            "$value": "{config.fontWeight.semibold}",
             "$type": "fontWeights"
           }
         },
@@ -1276,17 +1276,17 @@
             "$type": "fontWeights"
           },
           "alt": {
-            "$value": "{config.fontWeight.book}",
+            "$value": "{config.fontWeight.semibold}",
             "$type": "fontWeights"
           }
         },
         "number": {
           "default": {
-            "$value": "{config.fontWeight.book}",
+            "$value": "{config.fontWeight.medium}",
             "$type": "fontWeights"
           },
           "alt": {
-            "$value": "{config.fontWeight.medium}",
+            "$value": "{config.fontWeight.semibold}",
             "$type": "fontWeights"
           }
         }
@@ -1304,61 +1304,61 @@
         },
         "title": {
           "default": {
-            "$value": "{config.fontWeight.book}",
+            "$value": "{config.fontWeight.medium}",
             "$type": "fontWeights"
           },
           "strong": {
-            "$value": "{config.fontWeight.medium}",
+            "$value": "{config.fontWeight.semibold}",
             "$type": "fontWeights"
           }
         },
         "callout": {
           "default": {
-            "$value": "{config.fontWeight.book}",
+            "$value": "{config.fontWeight.medium}",
             "$type": "fontWeights"
           },
           "strong": {
-            "$value": "{config.fontWeight.medium}",
+            "$value": "{config.fontWeight.semibold}",
             "$type": "fontWeights"
           }
         },
         "subtitle": {
           "default": {
-            "$value": "{config.fontWeight.book}",
+            "$value": "{config.fontWeight.medium}",
             "$type": "fontWeights"
           },
           "strong": {
-            "$value": "{config.fontWeight.medium}",
+            "$value": "{config.fontWeight.semibold}",
             "$type": "fontWeights"
           }
         },
         "body": {
           "default": {
-            "$value": "{config.fontWeight.regular}",
+            "$value": "{config.fontWeight.medium}",
             "$type": "fontWeights"
           },
           "strong": {
-            "$value": "{config.fontWeight.medium}",
+            "$value": "{config.fontWeight.semibold}",
             "$type": "fontWeights"
           }
         },
         "caption": {
           "default": {
-            "$value": "{config.fontWeight.regular}",
+            "$value": "{config.fontWeight.medium}",
             "$type": "fontWeights"
           },
           "strong": {
-            "$value": "{config.fontWeight.medium}",
+            "$value": "{config.fontWeight.semibold}",
             "$type": "fontWeights"
           }
         },
         "footnote": {
           "default": {
-            "$value": "{config.fontWeight.book}",
+            "$value": "{config.fontWeight.medium}",
             "$type": "fontWeights"
           },
           "strong": {
-            "$value": "{config.fontWeight.medium}",
+            "$value": "{config.fontWeight.semibold}",
             "$type": "fontWeights"
           }
         },
@@ -2038,7 +2038,7 @@
         },
         "border": {
           "default": {
-            "$value": "2px",
+            "$value": "1px",
             "$type": "dimension"
           },
           "thin": {
