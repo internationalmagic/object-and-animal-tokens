@@ -28,7 +28,7 @@
         },
         "fg": {
           "default": {
-            "$value": "{config.color.palette.grey.solid.1}",
+            "$value": "{config.color.palette.white.solid}",
             "$type": "color"
           },
           "muted": {
